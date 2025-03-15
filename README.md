@@ -34,9 +34,11 @@ SciPy: for mathematical equations
 The project files are stored in following folder structure:
 
 01 Project Management: Project brief
+
 02 Data: Contains two subfolders 'IC24 Original Data' with original datasets, and 'IC24 Prepared Data' with cleaned datasets ready for analysis. (Data files not uploaded to GitHub due to size limitations.)
+
 03 Scripts: Jupyter notebooks containing coding for the analysis.
+
 04 Analysis: 'Visualizations' subfolder contains the visualizations used for developing and explaining insights.
+
 05 Sent to Client: The final report presented in Excel.
-Resources & Disclaimer
-Note: Instacart is a real company that’s made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis. ChatGPT was utilized for assistance with writing structure and grammar.
